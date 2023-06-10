@@ -1,0 +1,17 @@
+
+body{
+    background-color: #C4FAF8;
+  }
+
+#preview, #editor{
+    min-height: 600px;
+    max-width: 100%;
+  }
+
+#preview{
+    background-color: #FFFFFF;
+  }
+
+#preview img{
+    max-width: 100%;
+  }
